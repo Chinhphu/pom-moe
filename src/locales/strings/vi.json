@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "warpCounter": "Đếm bước nhảy",
+    "planner": "Dự kiến",
+    "calculator": "Tính toán",
+    "todolist": "Danh sách việc cần làm",
+    "timeline": "Lịch hoạt động"
+  },
+  "banner": {
+    "character": "Bước Nhảy Nhân Vật",
+    "lightcone": "Bước Nhảy Nón Ánh Sáng",
+    "standard": "Bước Nhảy Chòm Sao",
+    "beginner": "Bước Nhảy Tân Thủ"
+  },
+  "warp": {
+    "import": {
+      "title": "Nhập dữ liệu Bước Nhảy",
+      "selectFile": "Click để Chọn hoặc Kéo thả <span>{{filename}}</span> tệp vào đây",
+      "method": {
+        "pc1": "Cách 1",
+        "pc2": "Cách 2"
+      }
+    }
+  }
+}
